@@ -3,6 +3,10 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <properties>
+  <sonar.organization>maryamn31</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+</properties>
   <component name="ChangeListManager">
     <list default="true" id="ce4b422e-0bf9-4218-b41d-d8abf3796ad1" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
